@@ -14,7 +14,7 @@ Before running this project, ensure you have the following prerequisites set up:
 1. **AWS Account:** Make sure you have an active AWS account.
 2. **S3 Buckets:** Create two S3 buckets - one for the source CSV files and another for storing the last load time information.
 3. **Redshift Cluster:** Set up an Amazon Redshift cluster and ensure it's accessible for data loading.
-4. **IAM Roles and Policies:** Configure IAM roles with appropriate permissions for accessing S3, Glue, and Redshift.
+4. **IAM Roles and Policies:** Configure IAM roles with permissions for accessing S3, Glue, and Redshift.
 5. **AWS Secrets Manager:** Store your AWS credentials (for Redshift and S3) in the AWS Secrets Manager.
 6. **AWS Glue:** Set up an AWS Glue environment to run your ETL jobs.
 
