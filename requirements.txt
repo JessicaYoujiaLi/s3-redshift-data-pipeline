@@ -1,0 +1,5 @@
+boto3==1.24.28
+botocore==1.27.59
+pandas==1.5.3
+pyspark==3.5.0
+redshift_connector==2.0.918
