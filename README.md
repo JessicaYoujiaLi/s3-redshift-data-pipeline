@@ -2,7 +2,7 @@
 A Python-based data processing pipeline for transferring, cleaning, and loading CSV data from AWS S3 to Redshift. Supports incremental loading and error handling.
 
 ## Dataset
-The dataset used in this project is from Kaggle. You can access the dataset using the following link:
+The dataset used in this project (`heart_2020.csv`) is from Kaggle. You can access the dataset using the following link:
 [Personal Key Indicators of Heart Disease Dataset on Kaggle](https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease)
 
 The dataset provides information about various health indicators and the presence or absence of heart disease. It includes features such as age, gender, cholesterol levels, blood pressure, and more.
